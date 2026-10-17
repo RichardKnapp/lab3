@@ -1,0 +1,33 @@
+body {
+background-color: #F59CA9;
+font-family: Calibri, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+color: #462749;
+font-family: Georgia, sans-serif;
+}
+p {
+font-size: 16px;
+line-height: 1.5;
+}
+strong {
+font-weight: bold;
+}
+em {
+font-style: italic;
+}
+ol, ul {
+padding-left: 40px;
+}
+hr {
+border: 2px solid #462749;
+border-top: 3px solid #8332AC;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+.copyright {
+font-style: italic;
+font-size: small;
+}
